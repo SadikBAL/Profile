@@ -1,0 +1,137 @@
+┌                                ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐
+│   //Choose Theme               │ ████████ Celeste █████████ │          Mariana           │           Monaki           │
+└                                └────────────────────────────┴────────────────────────────┴────────────────────────────┘
+
+
+┌───────────────────────────────────────────────────────────────────────────────────────┬───────────────────────────────┐
+│                                                                                       │ ▄▄▄▄▄▄▄  ▄   ▄   ▄▄▄▄ ▄▄▄▄▄▄▄ │
+│   //Personal Informations                                                             │ █ ▄▄▄ █ ▀█▄█▀▀██▄▀ ▄▀ █ ▄▄▄ █ │
+│                                                                                       │ █ ███ █ ▀▀▄▀▄▄  ▄█▄▄▄ █ ███ █ │
+│   Name      : Sadık Bal                                                               │ █▄▄▄▄▄█ █ █ ▄▀█▀█ ▄ ▄ █▄▄▄▄▄█ │
+│   Mail      : sadikbal@hotmail.com                                                    │ ▄▄▄▄▄ ▄▄▄▄▄ █▀▄█ ▄▄█▀▄ ▄ ▄ ▄  │
+│   Phone     : +90 538 246 23 23                                                       │ ▄▀ ▄▄█▄ ▀█ ▄▄  ▄▀█▀▀ ▀█▀▀   ▀ │
+│   Location  : İstanbul                                                                │ ▄ █▄█ ▄  █▀█  ▀▄ ▄ █▀▀ ▀ █▄▀  │
+│                                                                                       │   █▀▄ ▄█▀ █ ▀██▄█▀█▀███▄▀▄▄ ▀ │
+│   //Social Accounts                                                                   │ ▄ ▄ ▄▄▄█ ▀▀ █▀▄  ▄ ▄   █▀▄▄▀  │
+│                                                                                       │ █▀▀█▄▄▄▄▀▀ ▄▄  ▄██▀▀▀▀██▀ █ ▀ │
+│   GitHub    : https://github.com/SadikBAL                                             │ █ ▀ █ ▄▀▀ ▀█  ▀▀ ▄█ █████ ▄█▄ │
+│   Discord   : https://discordapp.com/users/254194838143107072                         │ ▄▄▄▄▄▄▄ █ █ ▀██▄▀█▀▄█ ▄ ███▀▀ │
+│   LinkedIn  : https://www.linkedin.com/in/sadikbal/                                   │ █ ▄▄▄ █ ▄▄  █▀▄█▀▄ ▀█▄▄▄█ ▄   │
+│   Steam     : https://steamcommunity.com/id/sadikbal/                                 │ █ ███ █ █▄▀▄▄  ▄█▄▄█ ▄▄█▄███▀ │
+│                                                                                       │ █▄▄▄▄▄█ █▄ █  ▀█ ▄ ▄▀▀██▄█▄▀  │
+├───────────────────────────────────────────────────────────────────────────────────────┴───────────────────────────────┤
+│                                                                                                                       │
+│   //About me                                                                                                          │
+│                                                                                                                       │
+│      I love playing video games since my childhood and developing computer games is my passion.  Following new        │
+│   technologies in gaming industry impress me. Also I want to be part of process  to create virtual enviroments        │
+│   where people can spend long time and have fun.                                                                      │
+│                                                                                                                       │
+├───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                                       │
+│   //Experience                                                                                                        │
+│                                                                                                                       │
+│   █                           ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐│
+│   █                           │                            │                            │                            ││
+│   █►[Aug 2022] - [Now]        │ Company   : Panda Bear     │   Role : Game Developer    │  Location : Remote         ││
+│   █                           │                            │                            │                            ││
+│   █ ┌─────────────────────────┴────────────────────────────┴────────────────────────────┴────────────────────────────┤│
+│   █ │                                                                                                                ││
+│   █ │    I am working on Unreal Engine with c++ and blueprint. Project is a story-focused first person stealth game. ││
+│   █ │  I contribute on humanoid artificial intelligence, movement system, locomotion system, dynamic conversation    ││
+│   █ │  and reaction system for ai characters. Also I implemented FMOD integration to Unreal.                         ││
+│   █ │                                                                                                                ││
+│   █ └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘│
+│   █                           ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐│
+│   █                           │                            │                            │                            ││
+│   █►[Nov 2017] - [Jan 2022]   │ Company   : Madbyte        │   Role : Game Developer    │  Location : İstanbul       ││
+│   █                           │                            │                            │                            ││
+│   █ ┌─────────────────────────┴────────────────────────────┴────────────────────────────┴────────────────────────────┤│
+│   █ │                                                                                                                ││
+│   █ │    I worked on Zula and Zula Battle Royale projects. I used Acknex Game Engine in these projects.              ││
+│   █ │  I have used C++, C, Lite-C programming languages as software language.  My general responsibilities were      ││
+│   █ │  gameplay mechanics and user interface features. Zula Project is made with this programming language and       ││
+│   █ │  game engine because we were trying to write highly optimized code for low-level and old computer systems.     ││
+│   █ │  I wrote tools in C++ and C#. I used wwise as a sound solution.                                                ││
+│   █ │      Some systems I developed:                                                                                 ││
+│   █ │  - Battle Royale Inventory System                                                                              ││
+│   █ │  - Game server and client features                                                                             ││
+│   █ │  - Development tools                                                                                           ││
+│   █ │  - Zula UI Offer and Increased Cash System                                                                     ││
+│   █ │  - Zula Tournament System                                                                                      ││
+│   █ │  - User Interface Tooltip and Animation System                                                                 ││
+│   █ │                                                                                                                ││
+│   █ └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘│
+│   █                           ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐│
+│   █                           │                            │                            │                            ││
+│   █►[Sep 2015] - [Aug 2017]   │ Company   : CGS Soft       │   Role : Game Developer    │  Location : Remote         ││
+│   █                           │                            │                            │                            ││
+│   █ ┌─────────────────────────┴────────────────────────────┴────────────────────────────┴────────────────────────────┤│
+│   █ │                                                                                                                ││
+│   █ │    I worked on developing poker and slot games for the web in a custom game engine written in Flash.           ││
+│   █ │  During this process, I experimented with new technologies used to prepare online games in the web             ││
+│   █ │  environment. I worked with frameworks like RabbitMQ, MongoDB, and SignalR using the C# language.              ││
+│   █ │    Some of the projects I completed during my work process include:                                            ││
+│   █ │  - An online Yahtzee game that runs in a web environment using SignalR.                                        ││
+│   █ │  - Bonus mini games for several slot games.                                                                    ││
+│   █ │  - A lobby for online games in a web environment using SignalR.                                                ││
+│   █ │  - A SignalR chat system with game creation and invitation activities.                                         ││
+│   █ │                                                                                                                ││
+│   █ └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘│
+│   █                           ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐│
+│   █                           │                            │                            │                            ││
+│   █►[Jul 2014] - [Sep 2014]   │ Company   : Kodobur        │   Role : Intern            │  Location : İstanbul       ││
+│   █                           │                            │                            │                            ││
+│   █ ┌─────────────────────────┴────────────────────────────┴────────────────────────────┴────────────────────────────┤│
+│   █ │                                                                                                                ││
+│   █ │    During this long-term internship, I developed game prototypes using C# and Unity. Also                      ││
+│   █ │  I developed few games on my own, we tried to produce games by organizing in house GameJam activities.         ││
+│   █ │                                                                                                                ││
+│   █ └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘│
+│   █                           ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐│
+│   █                           │                            │                            │                            ││
+│   █►[Jul 2013] - [Aug 2013]   │ Company   : TC DİB         │   Role : Intern            │  Location : İstanbul       ││
+│   █                           │                            │                            │                            ││
+│   █ ┌─────────────────────────┴────────────────────────────┴────────────────────────────┴────────────────────────────┤│
+│   █ │                                                                                                                ││
+│   █ │    This was my first internship. I developed a blogger site demo using c# and .net mvc as software languages.  ││
+│   █ │  At the same time, I was looking after hardware replacements and support work.                                 ││
+│   █ │                                                                                                                ││
+│   █ └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘│
+│   █                                                                                                                   │
+│  ▀▀▀                                                                                                                  │
+├────────────────────────────────────────────────────────────────────────┬──────────────────────────────────────────────┤
+│                                                                        │                                              │
+│   //Skills                                                             │   //Hobbies                                  │
+│                                                                        │                                              │
+│    ┌───[Programing Language]───┐     ┌──────────[Tools]──────────┐     │    ┌───────────────[Game]───────────────┐    │
+│    │                           │     │                           │     │    │                      ───▄████▄─────│    │
+│    │   C / C++      ▀▄   ▄▀    │     │   Git          ▀▄   ▄▀    │     │    │   Dota 2             ──███▄█▀──────│    │
+│    │   C#          ▄█▀███▀█▄   │     │   Jira       █▄███████▄█  │     │    │   RTS                ─▐████──█─────│    │
+│    │   .Net Core  █ █▀▀▀▀▀█ █  │     │   Office      ██▄███▄██   │     │    │   ThirdPerson        ──█████▄──────│    │
+│    │   Java          ▀▀ ▀▀     │     │   StableDif   ▄▀     ▀▄   │     │    │                      ───▀████▀─────│    │
+│    └───────────────────────────┘     └───────────────────────────┘     │    └────────────────────────────────────┘    │
+│                                                                        │                                              │
+│    ┌────────[Game Engine]──────┐     ┌────────[Languages]────────┐     │    ┌─────────────[Activitie]────────────┐    │
+│    │                           │     │                           │     │    │                        ────█▀█▄▄▄▄─│    │
+│    │   Acknex       ▄▄████▄▄   │     │   Turkish       ▄▄██▄▄    │     │    │   Football & Tennis    ────█▀▄▄▄▄█─│    │
+│    │   Unreal      ██▄▄██▄▄██  │     │   English     ███▄██▄███  │     │    │   Performing Arts      ─▄▄▄█─────█─│    │
+│    │   Unity        ▄▀▄▀▀▄▀▄   │     │   Emojis        ▄▀▄▄▀▄    │     │    │   Food Discovery       ██▀▄█─▄██▀█─│    │
+│    │               ▀        ▀  │     │                ▀ ▀  ▀ ▀   │     │    │                        ─▀▀▀──▀█▄█▀─│    │
+│    └───────────────────────────┘     └───────────────────────────┘     │    └────────────────────────────────────┘    │
+│                                                                        │                                              │
+├────────────────────────────────────────────────────────────────────────┴──────────────────────────────────────────────┤
+│                                                                                                                       │
+│   //Education                                                                                                         │
+│                                                                                                                       │
+│    //////|                                                                                                            │
+│   ////// |                                                                                                            │
+│  |    |  |     I graduated from the science department at Anamur Anatolian High School in Mersin. Afterwards,         │
+│  |====|  |   I was accepted into the Computer Engineering department at Kütahya Dumlupınar University and graduated   │
+│  |    |  |   from this undergraduate program in 2015.                                                                 │
+│  |EDUC|  |                                                                                                            │
+│  |    | /                                                                                                             │
+│  |====|/                                                                                                              │
+│  '----'                                                                                                               │
+│                                                                                                                       │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
