@@ -38,12 +38,12 @@
 │   █ ┌─────────────────────────┴────────────────────────────┴────────────────────────────┴────────────────────────────┤│
 │   █ │                                                                                                                ││
 │   █ │                                                                                                                ││
-│   █ │    I work as a Gameplay and Unreal tool programmer for the Calypso project. I also work as a     			   ││
-│   █ │ UI Developer for the Zula project.   												 						   ││
-│   █ │      Some systems I developed:    																			   ││
+│   █ │    I work as a Gameplay and Unreal tool programmer for the Calypso project. I also work as a                   ││
+│   █ │ UI Developer for the Zula project.                                                                             ││
+│   █ │      Some systems I developed:                                                                                 ││
 │   █ │  - Procedural map generation tool directly within the Unreal Engine Editor to streamline level design.         ││
-│   █ │  - Integrated the Gameplay Ability System (GAS) and implemented core ability enhancements.					   ││
-│   █ │  - Created a custom Minigame Editor tool and programmed associated gameplay mechanics in Unreal Engine.		   ││
+│   █ │  - Integrated the Gameplay Ability System (GAS) and implemented core ability enhancements.                     ││
+│   █ │  - Created a custom Minigame Editor tool and programmed associated gameplay mechanics in Unreal Engine.        ││
 │   █ │  - Designed and implemented "GoldenWeapon," a level-based, battlepass-style progression system using Lite-C.   ││
 │   █ │                                                                                                                ││
 │   █ │                                                                                                                ││
