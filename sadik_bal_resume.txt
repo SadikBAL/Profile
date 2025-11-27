@@ -1,5 +1,5 @@
 ┌                                ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐
-│   //Choose Theme               │ ████████ Celeste █████████ │          Mariana           │           Monaki           │
+│   //Choose Theme               │ ████████ Celeste █████████ │          Mariana           │           Monokai          │
 └                                └────────────────────────────┴────────────────────────────┴────────────────────────────┘
 
 
@@ -33,11 +33,28 @@
 │                                                                                                                       │
 │   █                           ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐│
 │   █                           │                            │                            │                            ││
-│   █►[Aug 2022] - [Now]        │ Company   : Panda Bear     │   Role : Game Developer    │  Location : Remote         ││
+│   █►[Dec 2024] - [ Now ]      │ Company   : Madbyte        │   Role : Game Developer    │  Location : İstanbul       ││
 │   █                           │                            │                            │                            ││
 │   █ ┌─────────────────────────┴────────────────────────────┴────────────────────────────┴────────────────────────────┤│
 │   █ │                                                                                                                ││
-│   █ │    I am working on Unreal Engine with c++ and blueprint. Project is a story-focused first person stealth game. ││
+│   █ │                                                                                                                ││
+│   █ │    I work as a Gameplay and Unreal tool programmer for the Calypso project. I also work as a     			   ││
+│   █ │ UI Developer for the Zula project.   												 						   ││
+│   █ │      Some systems I developed:    																			   ││
+│   █ │  - Procedural map generation tool directly within the Unreal Engine Editor to streamline level design.         ││
+│   █ │  - Integrated the Gameplay Ability System (GAS) and implemented core ability enhancements.					   ││
+│   █ │  - Created a custom Minigame Editor tool and programmed associated gameplay mechanics in Unreal Engine.		   ││
+│   █ │  - Designed and implemented "GoldenWeapon," a level-based, battlepass-style progression system using Lite-C.   ││
+│   █ │                                                                                                                ││
+│   █ │                                                                                                                ││
+│   █ └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘│
+│   █                           ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐│
+│   █                           │                            │                            │                            ││
+│   █►[Aug 2022] - [Dec 2023]   │ Company   : Panda Bear     │   Role : Game Developer    │  Location : Remote         ││
+│   █                           │                            │                            │                            ││
+│   █ ┌─────────────────────────┴────────────────────────────┴────────────────────────────┴────────────────────────────┤│
+│   █ │                                                                                                                ││
+│   █ │    I worked on Unreal Engine with c++ and blueprint. Project is a story-focused first person stealth game. 	   ││
 │   █ │  I contribute on humanoid artificial intelligence, movement system, locomotion system, dynamic conversation    ││
 │   █ │  and reaction system for ai characters. Also I implemented FMOD integration to Unreal.                         ││
 │   █ │                                                                                                                ││
@@ -71,7 +88,7 @@
 │   █ │    I worked on developing poker and slot games for the web in a custom game engine written in Flash.           ││
 │   █ │  During this process, I experimented with new technologies used to prepare online games in the web             ││
 │   █ │  environment. I worked with frameworks like RabbitMQ, MongoDB, and SignalR using the C# language.              ││
-│   █ │    Some of the projects I completed during my work process include:                                            ││
+│   █ │      Some of the projects I completed during my work process include:                                          ││
 │   █ │  - An online Yahtzee game that runs in a web environment using SignalR.                                        ││
 │   █ │  - Bonus mini games for several slot games.                                                                    ││
 │   █ │  - A lobby for online games in a web environment using SignalR.                                                ││
@@ -135,3 +152,16 @@
 │  '----'                                                                                                               │
 │                                                                                                                       │
 └───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌                                ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐
+│   //Choose Theme               │          Celeste           │          Mariana           │ █████████ Monokai ████████ │
+└                                └────────────────────────────┴────────────────────────────┴────────────────────────────┘
+┌                                ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐
+│   //Choose Theme               │          Celeste           │ ████████ Mariana █████████ │           Monokai          │
+└                                └────────────────────────────┴────────────────────────────┴────────────────────────────┘
+┌                                ┌────────────────────────────┬────────────────────────────┬────────────────────────────┐
+│   //Choose Theme               │ ████████ Celeste █████████ │          Mariana           │           Monokai          │
+└                                └────────────────────────────┴────────────────────────────┴────────────────────────────┘
+
+1095 X 2890
